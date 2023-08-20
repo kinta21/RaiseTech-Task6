@@ -17,3 +17,4 @@ public class HelloController{
         return "Hello World!!　 日本は現在" + formatNowDate;
     }
 }
+
